@@ -1,1 +1,3 @@
 # trainning-afrologix
+
+first update

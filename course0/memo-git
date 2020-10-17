@@ -1,0 +1,22 @@
+    
+git config --global color.diff auto 
+
+git config --global color.status auto 
+
+git config --global color.branch auto
+    
+git config --global user.name "votre_pseudo"
+
+
+remplacez votre pseudo
+    
+git config --global user.email moi@email.com
+
+
+precisez votre adresse mail 
+
+git status : lister les fichiers modifications
+git add : ajouter un fichier à l'arborescence de git
+git commit : archiver plusieurs fichiers
+git pull : récupère les mises à jour disponiblent sur le serveur
+git push : envoie les modifications sur le serveur
